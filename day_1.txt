@@ -1,0 +1,9 @@
+Data is any piece of information — like a number, word, image, sound, or measurement — that can be recorded and used for a purpose.Types of Data:
+Structured Data – organized in tables (like in Excel or databases).
+Example: Student records (Name, Age, Marks).
+
+Unstructured Data – not organized in fixed format.
+Example: Emails, videos, social media posts.
+
+Semi-structured Data – has some organization (like JSON or XML).
+Example: Web APIs or sensor logs.                                                                                             A file system is a method and data structure used by an operating system to store, organize, retrieve, and manage files on a storage device such as a hard disk, SSD, or USB drive.
